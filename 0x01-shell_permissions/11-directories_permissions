@@ -1,3 +1,2 @@
 #!/bin/bash
-#chmod -R ogu+x .
 sudo find . -type d -exec chmod ogu+x {} \;
